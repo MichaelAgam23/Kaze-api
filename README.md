@@ -1,4 +1,3 @@
-Asu
 <h1 align="center">Hi! 👋 I'm Agam</h1>
 
 <p align="center">
